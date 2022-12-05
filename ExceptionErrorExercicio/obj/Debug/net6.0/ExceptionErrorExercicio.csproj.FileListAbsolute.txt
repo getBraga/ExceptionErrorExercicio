@@ -1,0 +1,15 @@
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\bin\Debug\net6.0\ExceptionErrorExercicio.exe
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\bin\Debug\net6.0\ExceptionErrorExercicio.deps.json
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\bin\Debug\net6.0\ExceptionErrorExercicio.runtimeconfig.json
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\bin\Debug\net6.0\ExceptionErrorExercicio.dll
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\bin\Debug\net6.0\ExceptionErrorExercicio.pdb
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\ExceptionErrorExercicio.csproj.AssemblyReference.cache
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\ExceptionErrorExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\ExceptionErrorExercicio.AssemblyInfoInputs.cache
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\ExceptionErrorExercicio.AssemblyInfo.cs
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\ExceptionErrorExercicio.csproj.CoreCompileInputs.cache
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\ExceptionErrorExercicio.dll
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\refint\ExceptionErrorExercicio.dll
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\ExceptionErrorExercicio.pdb
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\ExceptionErrorExercicio.genruntimeconfig.cache
+C:\Users\018296631\Desktop\projetos\c#\ExceptionErrorExercicio\ExceptionErrorExercicio\obj\Debug\net6.0\ref\ExceptionErrorExercicio.dll
